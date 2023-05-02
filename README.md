@@ -17,7 +17,7 @@ These plugins must be installed FIRST:
 
 STLs were created by Stephen Lebed of the Rat-Rit Unofficial Discord community.
 STEPs were created *from* the STLs via Fusion 360, as the originals were created
-in 3dx max.
+in 3ds max.
 
 - Code is MIT licensed.
 - STLs are CC BY-NC-SA 4.0
