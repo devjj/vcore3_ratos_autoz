@@ -15,7 +15,7 @@ These plugins must be installed FIRST:
 - PAM (https://github.com/HelgeKeck/pam)
 - klipper_z_calibration (https://github.com/protoloft/klipper_z_calibration)
 
-STLs were created by Stephen Lebed of the Rat-Rit Unofficial Discord community.
+STLs were created by Stephen Lebed of the Rat-Rig Unofficial Discord community.
 STEPs were created *from* the STLs via Fusion 360, as the originals were created
 in 3ds max.
 
