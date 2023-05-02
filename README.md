@@ -21,3 +21,6 @@ in 3dx max.
 
 - Code is MIT licensed.
 - STLs are CC BY-NC-SA 4.0
+
+Better documentation will be forthcoming, and this repository will
+eventually be a plug-in that can be installed in Moonraker.
